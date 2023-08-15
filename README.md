@@ -1,4 +1,6 @@
 # CappuccinOS
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuls0730%2FCappuccinOS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuls0730%2FCappuccinOS?ref=badge_shield)
+
 CappuccinOS is a small x86-64 operating system written from scratch in rust. This README will guide you through the process of building and running CappuccinOS.
 
 ## Features
@@ -65,3 +67,5 @@ sudo dd if=bin/CappuccinOS.iso of=/dev/sdX && sync
 
 ## License
 CappuccinOS is license under the MIT License. Feel free to modify and distribute in accordance with the license.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuls0730%2FCappuccinOS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuls0730%2FCappuccinOS?ref=badge_large)
